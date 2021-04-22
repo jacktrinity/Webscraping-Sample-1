@@ -1,9 +1,19 @@
+"""
+Parse through a sample content site provided by codecademy.com.
+https://content.codecademy.com/courses/beautifulsoup/cacao/index.html
+
+Using Beautifulsoup, scape, and clean data in regards to "rating" and "cacao percentage" of each chocolate bar.
+Create a data frame, pairing rating and cacao percentage.
+Display data frame and scatterplot with line of best-fit.
+"""
+
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Request
 webpage_reponse = requests.get('https://content.codecademy.com/courses/beautifulsoup/cacao/index.html')
 webpage = webpage_reponse.content
 soup = BeautifulSoup(webpage, "html.parser")
