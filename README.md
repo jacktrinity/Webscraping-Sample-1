@@ -37,3 +37,5 @@ Display data frame and scatterplot with line of best-fit.
 ![data_frame](https://user-images.githubusercontent.com/46969960/115679496-7f410c00-a307-11eb-9595-7a4495ed08fa.png)
 
 
+### Scatterplot ###
+![scatterplot](https://user-images.githubusercontent.com/46969960/115679765-c62f0180-a307-11eb-860e-13c09fb39062.png)
