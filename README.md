@@ -10,11 +10,10 @@ https://content.codecademy.com/courses/beautifulsoup/cacao/index.html
 * Compiled ratings of over 1700 Chocolate bars.
 * Ratings are from 1-5.
 
-Using Beautifulsoup, scape and clean data in regards to "rating" of each chocolate bars.
+Using Beautifulsoup, scape, and clean data in regards to "rating" of each chocolate bar.
 
 
 Finally, display data in a histogram graph.
 
 
 ![caco_rating_histogram](https://user-images.githubusercontent.com/46969960/115656704-83126580-a2ea-11eb-944f-9b0f39ce4b29.png)
-
