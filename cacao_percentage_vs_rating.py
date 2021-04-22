@@ -52,7 +52,7 @@ for cacao_text in soup.find_all('td', class_='CocoaPercent'):
   cacao_clean1 = cacao_str.replace(cacao_leading_strip, '')
   cacao_clean2 = cacao_clean1.replace(cacao_ending_strip, '')
 
-  # Convert our data into an int and append it.
+  # Convert our data into a float and append it.
   try:
     cacao_percentage_list.append(float(cacao_clean2))
   except(ValueError):
