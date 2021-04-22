@@ -24,3 +24,12 @@ Finally, display data in a histogram graph.
 
 
 # Is more cacao better? #
+[cacao_percentage_vs_rating.py](https://github.com/jacktrinity/Webscraping-Sample-1/blob/main/cacao_percentage_vs_rating.py)
+
+
+Using Beautifulsoup, scape, and clean data in regards to "rating" and "cacao percentage" of each chocolate bar.
+
+Create a data frame, pairing rating and cacao percentage.
+
+Display data frame and scatterplot with line of best-fit.
+
