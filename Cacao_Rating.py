@@ -32,7 +32,7 @@ for text in soup.find_all('td', class_='Rating'):
     pass
   
 # Output a historgram graph of our data
-plt.hist(rating_list)
+plt.hist(rating_list, edgecolor='black', linewidth=1)
 plt.xlabel('Rating from 1-5')
 plt.ylabel('Compiled ratings of over 1700 Chocolate bars')
 plt.title('Cacao Ratings')
