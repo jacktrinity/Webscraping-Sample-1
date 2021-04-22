@@ -2,7 +2,7 @@
 Parse through a sample content site provided by codecademy.com.
 https://content.codecademy.com/courses/beautifulsoup/cacao/index.html
 
-Using Beautifulsoup, scape and clean data in regards to "rating" of each chocolate bars.
+Using Beautifulsoup, scape, and clean data in regards to "rating" of each chocolate bar.
 Finally, display data in a histogram graph.
 """
 
