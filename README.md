@@ -14,10 +14,8 @@ https://content.codecademy.com/courses/beautifulsoup/cacao/index.html
 [all_cacao_rating.py](https://github.com/jacktrinity/Webscraping-Sample-1/blob/main/all_cacao_rating.py)
 
 
-Using Beautifulsoup, scape, and clean data in regards to "rating" of each chocolate bar.
-
-
-Finally, display data in a histogram graph.
+1. Using Beautifulsoup, scape, and clean data in regards to "rating" of each chocolate bar.
+2. Finally, display data in a histogram graph.
 
 
 ### Histogram ###
@@ -28,11 +26,9 @@ Finally, display data in a histogram graph.
 [cacao_percentage_vs_rating.py](https://github.com/jacktrinity/Webscraping-Sample-1/blob/main/cacao_percentage_vs_rating.py)
 
 
-Using Beautifulsoup, scape, and clean data in regards to "rating" and "cacao percentage" of each chocolate bar.
-
-Create a data frame, pairing rating and cacao percentage.
-
-Display data frame and scatterplot with line of best-fit.
+1. Using Beautifulsoup, scape, and clean data in regards to "rating" and "cacao percentage" of each chocolate bar.
+2. Create a data frame, pairing rating and cacao percentage.
+3. Display data frame and scatterplot with line of best-fit.
 
 ### Data Frame ###
 ![data_frame](https://user-images.githubusercontent.com/46969960/115679496-7f410c00-a307-11eb-9595-7a4495ed08fa.png)
