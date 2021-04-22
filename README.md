@@ -10,6 +10,7 @@ https://content.codecademy.com/courses/beautifulsoup/cacao/index.html
 * Compiled ratings of over 1700 Chocolate bars.
 * Ratings are from 1-5.
 
+# All chocolate bar rating #
 Using Beautifulsoup, scape, and clean data in regards to "rating" of each chocolate bar.
 
 
