@@ -33,3 +33,7 @@ Create a data frame, pairing rating and cacao percentage.
 
 Display data frame and scatterplot with line of best-fit.
 
+### Data Frame ###
+![data_frame](https://user-images.githubusercontent.com/46969960/115679496-7f410c00-a307-11eb-9595-7a4495ed08fa.png)
+
+
